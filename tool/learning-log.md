@@ -1,8 +1,8 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: MERN Stack
 
-## Project: **X**
+## Project: Music Playing Web App
 
 ---
 
