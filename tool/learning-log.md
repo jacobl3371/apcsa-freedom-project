@@ -44,7 +44,7 @@ I will have all of my code for the todo-lister tinker-mini-project in [this repo
 
 ### 4/20/2026
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-20 16-22-22.png
+![alt-text](Screenshot From 2026-04-20 16-22-22.png)
 
 I was missing this line of code to configure `dotenv` 
 
@@ -52,17 +52,17 @@ I was missing this line of code to configure `dotenv`
 dotenv.config()
 ```
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-20 16-26-25.png
+![alt-text](Screenshot From 2026-04-20 16-26-25.png)
 
 Trying to test the app with `npm run dev` threw an error, as it could not retrieve the MongoDB connection URI that was stored behind an environment variable in the `.env` file.
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-20 16-28-00.png
+![alt-text](Screenshot From 2026-04-20 16-28-00.png)
 
 Using the `dotenv` NPM package and `.env` are standard security practices in full stack development to prevent the database from getting leaked through the frontend. Later on I'll have to make sure to label the `.env` file in a `.gitignore` file to ensure that data does not get leaked when I commit on Github.
 
 When I added the `dotenv.config()` method to my `server.js` file and saved with `ctrl + s`, nodemon automatically restarted my application and allowed for the console.log statements to run and show that my server is running.
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-20 17-00-49.png
+![alt-text](Screenshot From 2026-04-20 17-00-49.png)
 
 This is also a common error that happens when you forget the `async` keyword before asynchronous functions.
 
@@ -73,17 +73,17 @@ I was using [this url](https://v3.tailwindcss.com/docs/installation) to install 
 
 I couldn't figure out why this styling wouldn't apply to my button
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-22 11-55-50.png
+![alt-text](Screenshot From 2026-04-22 11-55-50.png)
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-22 11-22-16.png
+![alt-text](Screenshot From 2026-04-22 11-22-16.png)
 
 It turns out I needed to use this url [instead](https://v3.tailwindcss.com/docs/guides/vite), for the Vite-specific installation of Tailwind.
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-22 12-50-44.png
+![alt-text](Screenshot From 2026-04-22 12-50-44.png)
 
 The Vite installation is almost the same as the regular CLI installation method
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-22 12-51-45.png
+![alt-text](Screenshot From 2026-04-22 12-51-45.png)
 
 Except that the first command for the Vite-specific installation has that `postcss autoprefixer` line appended to it, and the `tailwind.config.js` `content` looks like this in the regular CLI installation:
 
@@ -102,4 +102,4 @@ And like so for the Vite-React installation:
 
 This makes all the difference in whether the class-styling functionality is able to be applied to the application or not.
 
-/home/debian/Documents/apcsa-freedom-project/tool/Screenshot From 2026-04-22 11-43-55.png
+![alt-text](Screenshot From 2026-04-22 11-43-55.png)
