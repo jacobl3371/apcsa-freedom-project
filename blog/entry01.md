@@ -1,4 +1,4 @@
-## Blog 1
+Entry 1
 
 **Sources**:
 
@@ -11,3 +11,7 @@ So I moved on from that tutorial to a (more relevant and up-to-date)[https://www
 **Engineering Design Process**
 
 I am currently in the third stage of the engineering design process, I have established the issue, planned out my next steps, and have started working on the first app, which is the authentication and advanced auth features.
+
+[Next](entry02.md)
+
+[Home](../README.md)
