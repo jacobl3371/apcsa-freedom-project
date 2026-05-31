@@ -14,6 +14,8 @@ email: mailtrap7@onionmail.org
 
 password: Password1$
 
+Code is located here: (https://github.com/jacobl3371/foss-todolister)
+
 
 [Presentation](https://docs.google.com/presentation/d/1tA1Vdf2fFsZ9deEGQy46DowYgaVXTAflZ9NuF_R40-Q/edit?pli=1&slide=id.g3e51b4ef0da_2_0#slide=id.g3e51b4ef0da_2_0)
 
