@@ -1,6 +1,6 @@
 # Entry 3
 
-### Progress
+### Beginning to Implement New CRUD Features
 I finished the authentication features of the app and moved on to [another MERN stack tutorial](https://www.youtube.com/watch?v=Ea9rrRj9e0Y) from the same channel to help me better understand how to implement the Create Read Update Delete (CRUD) functionalities in my application.
 
 I ran into some issues like `dotenv` not being configured properly, as I was missing `dotenv.config()` in my server.js file
