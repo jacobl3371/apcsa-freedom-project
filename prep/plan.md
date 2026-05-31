@@ -10,8 +10,8 @@
 #### MVP
 
 - [X] Build basic authentication with MERN (MongoDB, Express, React, Node) *(8/25/2025)*
-- [ ] free server (render) is no longer working --> I will need to ask Shi Jun to use his server *(3/24/2026)*
-- Build the basic CRUD features and user interface *(4/12/2026)*
+- [X] free server (render) is no longer working --> I will need to ask Shi Jun to use his server *(3/24/2026)*
+  - [X] Build the basic CRUD features and user interface *(4/12/2026)*
 
 #### Beyond MVP
 
