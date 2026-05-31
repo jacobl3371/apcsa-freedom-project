@@ -1,16 +1,20 @@
 # Entry 1
 
-**Sources**:
+### Background
 
-dev.to is a resource for developers and I found on there a blog post with a link to a playlist for a (complete MERN stack tutorial)[https://www.youtube.com/playlist?list=PL63c_Ws9ecIQkH5xD6JW4cf2VporjzSRW] to build a simple to-do-list app. I followed the playlist up until part 16 where he started building the React frontend using Material UI--a library that ships pre-built and designed React components--which I realized wouldn't help me in my actual fundamental learning of React and the combined tools in my tech stack for two reasons:
+Last year I studied Node.js, Express, and React for my freedom project and wanted to take my knowledge further in web development with JavaScript by learning how to implement authentication and Create, Read, Update, and Delete (CRUD) functionalities. I began learning some CRUD and authentication over the summer by following a few tutorials.
+
+### Beginning To Build My Own MERN Stack App With Auth
+
+[Dev.to](https://dev.to/) is a resource for developers and I found on there a blog post with a link to a playlist for a (complete MERN stack tutorial)[https://www.youtube.com/playlist?list=PL63c_Ws9ecIQkH5xD6JW4cf2VporjzSRW] to build a simple to-do-list app. I followed the playlist up until part 16 where he started building the React frontend using Material UI--a library that ships pre-built and designed React components--which I realized wouldn't help me in my actual fundamental learning of React and the combined tools in my tech stack for two reasons:
     a. What reason do I have to use Material UI in any future projects anyway?...
     b. Using Material UI when I'm learning the basics hinders my learning of making components from scratch, which I will definitely need to know how to do anyways whether for this project or later on.
     
 So I moved on from that tutorial to a (more relevant and up-to-date)[https://www.youtube.com/watch?v=pmvEgZC55Cg] MERN stack course, using Vite and Tailwind CSS for the frontend, and which also showcased the integration of some advanced features such as email verification and password recovery.
 
-**Engineering Design Process**
+### Engineering Design Process
 
-I am currently in the third stage of the engineering design process, I have established the issue, planned out my next steps, and have started working on the first app, which is the authentication and advanced auth features.
+I am currently in the third stage of the engineering design process, I have established the issue, planned out my next steps, and have started working on the first part of my app, which is the authentication and advanced auth features.
 
 [Next](entry02.md)
 
