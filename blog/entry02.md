@@ -25,4 +25,6 @@ I have building finished the entire account-creation and login system that will 
 1. One skill that I strengthened was debugging errors, as I had to understand that the error in logging in and performing the authentication functions of my application were being caused by my MERN stack auth not being compatible with Vercel and it's native NextJS auth support.
 2. Another skill that I strengthened was attention to detail, since I actually went back and saw that I missed a part at the very end of the video where deployment with Render is mentioned.
 
+[Previous](entry01.md) | [Next](entry03.md)
+
 [Home](../README.md)
