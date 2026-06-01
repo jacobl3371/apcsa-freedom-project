@@ -12,6 +12,7 @@ When the actual judges came around, they set a timer for 1 minute and 40 seconds
 
 ### Links to Presentation/Plan:
 [Presentation Plan](https://github.com/jacobl3371/apcsa-freedom-project/blob/main/prep/presentation.md)
+
 [Presentation](https://docs.google.com/presentation/d/1tA1Vdf2fFsZ9deEGQy46DowYgaVXTAflZ9NuF_R40-Q/edit?slide=id.g3e51b4ef0da_2_0#slide=id.g3e51b4ef0da_2_0)
 
 ### Engineering Design Process
