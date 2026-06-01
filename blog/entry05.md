@@ -26,6 +26,10 @@ I am in the 5th and final stage of the engineering design process for creating m
 
 I asked Shi Jun to deploy my app for me on his own personal server. vercel doesn't support the deployment of the backend authentication, but for convenience I asked Shi Jun to deploy the entire app for me on the dedicated server: https://todolister.kyson.dev/
 
+### Skills
+1. One skill that I strengthened was logical reasoning/problem decomposition, as I had to take a step back for a moment and guage the entire scale of this project, considering how I would go about implementing all of the CRUD functions for the todolist app into the authStore function to ensure that this part of my app would work with the login system, which I was glad to see did once I had all of the functions in the React components replaced with the instances imported from `useAuthStore`, and wrapped each route in the `App.jsx` file with the `ProtectedRoute` function.
+2. Another skill I strengthened again was Learning On Your Own (LOYO), as I had to think about and figure out on my own how to implement the authentication into the todolist app and have it so that the user must login to access that content.
+
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
