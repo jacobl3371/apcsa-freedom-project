@@ -14,6 +14,10 @@ This was happening because I was trying to import the notes title and content as
 ### EDP
 I currently am still in the 4th stage of the Engineering Design Process for my project. I have completed the entire CRUD functionality, with both the backend and frontend, and am ready to move on to taking code I already have for the authentication and combining it with these todolist app CRUD features to form my MVP.
 
+### Skills
+1. A skill that I strengthened was logical reasoning, as I had to understand that the title and content variables could not be accessed from the URL parameters, which is what the `useParams()` function does. I had to understand that the title and content were variables associated with the `note` object and which could be called with the `.` operator.
+2. A second skill that I strengthened by working through this part of my project was Learning On Your Own, as I had to figure out what useParams() does, which I had never utilized before following this tutorial which I have currently finished, as well as when to use the `.` operator.
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
