@@ -1,7 +1,12 @@
 # Entry 6
-##### X/X/XX
 
-Text
+### Takeaways From Expo Presentation
+
+### Takeaways From In Class Presentation
+
+### Engineering Design Process
+
+### Skills 
 
 [Previous](entry05.md) | [Next](entry07.md)
 
