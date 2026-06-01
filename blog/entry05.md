@@ -3,7 +3,7 @@
 ### Putting Together The MVP
 Not that I had the separate CRUD todo-list app done as well, I was ready to combine the code from both tutorials into a fullstack application with auth. In order for all of the operations done by the user to only be accessible if they are logged in and authenticated into the website, I had to make sure to wrap the routes to create, read, update and delete the app content in the same `ProtectedRoutes` function that the DashboardPage component was already wrapped in. 
 
-![image-1](https://github.com/jacobl3371/apcsa-freedom-project/tree/main/blog)
+![image-1](https://github.com/jacobl3371/apcsa-freedom-project/blob/main/tool/image-17.png)
 
 This would redirect the user back to the login page if they were not authenticated, or the verify-email page if they did already sign up better never verified their account.
 
