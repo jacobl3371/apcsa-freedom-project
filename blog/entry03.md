@@ -24,6 +24,9 @@ I had to use the [Vite-specific installation](https://v3.tailwindcss.com/docs/gu
 ### EDP
 I am currently still in the 3rd and 4th stage of the Engineering Design Process, I have completed my entire backend for additional application features which require CRUD functionalities, and am completing the frontend and working towards my MVP.
 
+### Skills
+1. One skill that I strengthened was once again attention to detail, as I had missed the line of code to configure dotenv in my application (`dotenv.config()`), making it so that I couldn't inject environment variables into my application from the `.env` file.
+2. Another skill that I strengthened was communication, as I needed to reach out to Shi Jun to find out that I was using the wrong link to configure TailwindCSS in my React Vite application. This also ties into keeping up with and using the appropriate modern documentation for the different libraries and frameworks that you're working with.
 
 [Previous](entry02.md) | [Next](entry04.md)
 
