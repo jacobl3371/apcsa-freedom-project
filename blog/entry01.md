@@ -16,6 +16,10 @@ So I moved on from that tutorial to a (more relevant and up-to-date)[https://www
 
 I am currently in the third stage of the engineering design process, I have established the issue, planned out my next steps, and have started working on the first part of my app, which is the authentication and advanced auth features.
 
+### Skills
+1. One skill I strengthened was learning how to research and finding the right video tutorial that works for me
+2. More specifically that skill tied into the second (or actually first skill), which was reaching out and communicating when you run into an error, since Shi Jun told me that the fist tutorial was outdated and lead to me to the second advanced auth tutorial from the other Youtube channel.
+
 [Next](entry02.md)
 
 [Home](../README.md)
