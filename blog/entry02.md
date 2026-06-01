@@ -21,7 +21,8 @@ The dashboard page once you enter after successfully logging in on the working r
 ### Engineering Design Process
 I have building finished the entire account-creation and login system that will be implemented in my app. I had it up running on Render but that deployment no longer works so I have considered using a personal server once I finish the app. Next I'm going to start building and then implementing the actual CRUD features that the user can perform once they are signed up and logged into the application.
 
-
-[Previous](entry01.md) | [Next](entry03.md)
+### Skills
+1. One skill that I strengthened was debugging errors, as I had to understand that the error in logging in and performing the authentication functions of my application were being caused by my MERN stack auth not being compatible with Vercel and it's native NextJS auth support.
+2. Another skill that I strengthened was attention to detail, since I actually went back and saw that I missed a part at the very end of the video where deployment with Render is mentioned.
 
 [Home](../README.md)
